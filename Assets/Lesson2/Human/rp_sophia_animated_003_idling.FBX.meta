@@ -1,0 +1,1143 @@
+fileFormatVersion: 2
+guid: 129021d030b1ce648b37afc99821bea3
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: rp_sophia_animated_003_idling_ball_l
+    100004: rp_sophia_animated_003_idling_ball_r
+    100006: rp_sophia_animated_003_idling_CTRL
+    100008: rp_sophia_animated_003_idling_eye_end_l
+    100010: rp_sophia_animated_003_idling_eye_end_r
+    100012: rp_sophia_animated_003_idling_eye_l
+    100014: rp_sophia_animated_003_idling_eye_r
+    100016: rp_sophia_animated_003_idling_foot_end_l
+    100018: rp_sophia_animated_003_idling_foot_end_r
+    100020: rp_sophia_animated_003_idling_foot_l
+    100022: rp_sophia_animated_003_idling_foot_r
+    100024: rp_sophia_animated_003_idling_geo
+    100026: rp_sophia_animated_003_idling_hand_l
+    100028: rp_sophia_animated_003_idling_hand_r
+    100030: rp_sophia_animated_003_idling_head
+    100032: rp_sophia_animated_003_idling_head_end
+    100034: rp_sophia_animated_003_idling_hip
+    100036: rp_sophia_animated_003_idling_index_01_l
+    100038: rp_sophia_animated_003_idling_index_01_r
+    100040: rp_sophia_animated_003_idling_index_02_l
+    100042: rp_sophia_animated_003_idling_index_02_r
+    100044: rp_sophia_animated_003_idling_index_03_l
+    100046: rp_sophia_animated_003_idling_index_03_r
+    100048: rp_sophia_animated_003_idling_index_end_l
+    100050: rp_sophia_animated_003_idling_index_end_r
+    100052: rp_sophia_animated_003_idling_jaw
+    100054: rp_sophia_animated_003_idling_jaw_end
+    100056: rp_sophia_animated_003_idling_lowerarm_l
+    100058: rp_sophia_animated_003_idling_lowerarm_r
+    100060: rp_sophia_animated_003_idling_lowerarm_twist_l
+    100062: rp_sophia_animated_003_idling_lowerarm_twist_r
+    100064: rp_sophia_animated_003_idling_lowerleg_l
+    100066: rp_sophia_animated_003_idling_lowerleg_r
+    100068: rp_sophia_animated_003_idling_lowerleg_twist_l
+    100070: rp_sophia_animated_003_idling_lowerleg_twist_r
+    100072: rp_sophia_animated_003_idling_middle_01_l
+    100074: rp_sophia_animated_003_idling_middle_01_r
+    100076: rp_sophia_animated_003_idling_middle_02_l
+    100078: rp_sophia_animated_003_idling_middle_02_r
+    100080: rp_sophia_animated_003_idling_middle_03_l
+    100082: rp_sophia_animated_003_idling_middle_03_r
+    100084: rp_sophia_animated_003_idling_middle_end_l
+    100086: rp_sophia_animated_003_idling_middle_end_r
+    100088: rp_sophia_animated_003_idling_neck
+    100090: rp_sophia_animated_003_idling_pinky_01_l
+    100092: rp_sophia_animated_003_idling_pinky_01_r
+    100094: rp_sophia_animated_003_idling_pinky_02_l
+    100096: rp_sophia_animated_003_idling_pinky_02_r
+    100098: rp_sophia_animated_003_idling_pinky_03_l
+    100100: rp_sophia_animated_003_idling_pinky_03_r
+    100102: rp_sophia_animated_003_idling_pinky_end_l
+    100104: rp_sophia_animated_003_idling_pinky_end_r
+    100106: rp_sophia_animated_003_idling_ring_01_l
+    100108: rp_sophia_animated_003_idling_ring_01_r
+    100110: rp_sophia_animated_003_idling_ring_02_l
+    100112: rp_sophia_animated_003_idling_ring_02_r
+    100114: rp_sophia_animated_003_idling_ring_03_l
+    100116: rp_sophia_animated_003_idling_ring_03_r
+    100118: rp_sophia_animated_003_idling_ring_end_l
+    100120: rp_sophia_animated_003_idling_ring_end_r
+    100122: rp_sophia_animated_003_idling_root
+    100124: rp_sophia_animated_003_idling_shoulder_l
+    100126: rp_sophia_animated_003_idling_shoulder_r
+    100128: rp_sophia_animated_003_idling_spine_01
+    100130: rp_sophia_animated_003_idling_spine_02
+    100132: rp_sophia_animated_003_idling_spine_03
+    100134: rp_sophia_animated_003_idling_thumb_01_l
+    100136: rp_sophia_animated_003_idling_thumb_01_r
+    100138: rp_sophia_animated_003_idling_thumb_02_l
+    100140: rp_sophia_animated_003_idling_thumb_02_r
+    100142: rp_sophia_animated_003_idling_thumb_03_l
+    100144: rp_sophia_animated_003_idling_thumb_03_r
+    100146: rp_sophia_animated_003_idling_thumb_end_l
+    100148: rp_sophia_animated_003_idling_thumb_end_r
+    100150: rp_sophia_animated_003_idling_upperarm_l
+    100152: rp_sophia_animated_003_idling_upperarm_r
+    100154: rp_sophia_animated_003_idling_upperarm_twist_l
+    100156: rp_sophia_animated_003_idling_upperarm_twist_r
+    100158: rp_sophia_animated_003_idling_upperleg_l
+    100160: rp_sophia_animated_003_idling_upperleg_r
+    100162: rp_sophia_animated_003_idling_upperleg_twist_l
+    100164: rp_sophia_animated_003_idling_upperleg_twist_r
+    400000: //RootNode
+    400002: rp_sophia_animated_003_idling_ball_l
+    400004: rp_sophia_animated_003_idling_ball_r
+    400006: rp_sophia_animated_003_idling_CTRL
+    400008: rp_sophia_animated_003_idling_eye_end_l
+    400010: rp_sophia_animated_003_idling_eye_end_r
+    400012: rp_sophia_animated_003_idling_eye_l
+    400014: rp_sophia_animated_003_idling_eye_r
+    400016: rp_sophia_animated_003_idling_foot_end_l
+    400018: rp_sophia_animated_003_idling_foot_end_r
+    400020: rp_sophia_animated_003_idling_foot_l
+    400022: rp_sophia_animated_003_idling_foot_r
+    400024: rp_sophia_animated_003_idling_geo
+    400026: rp_sophia_animated_003_idling_hand_l
+    400028: rp_sophia_animated_003_idling_hand_r
+    400030: rp_sophia_animated_003_idling_head
+    400032: rp_sophia_animated_003_idling_head_end
+    400034: rp_sophia_animated_003_idling_hip
+    400036: rp_sophia_animated_003_idling_index_01_l
+    400038: rp_sophia_animated_003_idling_index_01_r
+    400040: rp_sophia_animated_003_idling_index_02_l
+    400042: rp_sophia_animated_003_idling_index_02_r
+    400044: rp_sophia_animated_003_idling_index_03_l
+    400046: rp_sophia_animated_003_idling_index_03_r
+    400048: rp_sophia_animated_003_idling_index_end_l
+    400050: rp_sophia_animated_003_idling_index_end_r
+    400052: rp_sophia_animated_003_idling_jaw
+    400054: rp_sophia_animated_003_idling_jaw_end
+    400056: rp_sophia_animated_003_idling_lowerarm_l
+    400058: rp_sophia_animated_003_idling_lowerarm_r
+    400060: rp_sophia_animated_003_idling_lowerarm_twist_l
+    400062: rp_sophia_animated_003_idling_lowerarm_twist_r
+    400064: rp_sophia_animated_003_idling_lowerleg_l
+    400066: rp_sophia_animated_003_idling_lowerleg_r
+    400068: rp_sophia_animated_003_idling_lowerleg_twist_l
+    400070: rp_sophia_animated_003_idling_lowerleg_twist_r
+    400072: rp_sophia_animated_003_idling_middle_01_l
+    400074: rp_sophia_animated_003_idling_middle_01_r
+    400076: rp_sophia_animated_003_idling_middle_02_l
+    400078: rp_sophia_animated_003_idling_middle_02_r
+    400080: rp_sophia_animated_003_idling_middle_03_l
+    400082: rp_sophia_animated_003_idling_middle_03_r
+    400084: rp_sophia_animated_003_idling_middle_end_l
+    400086: rp_sophia_animated_003_idling_middle_end_r
+    400088: rp_sophia_animated_003_idling_neck
+    400090: rp_sophia_animated_003_idling_pinky_01_l
+    400092: rp_sophia_animated_003_idling_pinky_01_r
+    400094: rp_sophia_animated_003_idling_pinky_02_l
+    400096: rp_sophia_animated_003_idling_pinky_02_r
+    400098: rp_sophia_animated_003_idling_pinky_03_l
+    400100: rp_sophia_animated_003_idling_pinky_03_r
+    400102: rp_sophia_animated_003_idling_pinky_end_l
+    400104: rp_sophia_animated_003_idling_pinky_end_r
+    400106: rp_sophia_animated_003_idling_ring_01_l
+    400108: rp_sophia_animated_003_idling_ring_01_r
+    400110: rp_sophia_animated_003_idling_ring_02_l
+    400112: rp_sophia_animated_003_idling_ring_02_r
+    400114: rp_sophia_animated_003_idling_ring_03_l
+    400116: rp_sophia_animated_003_idling_ring_03_r
+    400118: rp_sophia_animated_003_idling_ring_end_l
+    400120: rp_sophia_animated_003_idling_ring_end_r
+    400122: rp_sophia_animated_003_idling_root
+    400124: rp_sophia_animated_003_idling_shoulder_l
+    400126: rp_sophia_animated_003_idling_shoulder_r
+    400128: rp_sophia_animated_003_idling_spine_01
+    400130: rp_sophia_animated_003_idling_spine_02
+    400132: rp_sophia_animated_003_idling_spine_03
+    400134: rp_sophia_animated_003_idling_thumb_01_l
+    400136: rp_sophia_animated_003_idling_thumb_01_r
+    400138: rp_sophia_animated_003_idling_thumb_02_l
+    400140: rp_sophia_animated_003_idling_thumb_02_r
+    400142: rp_sophia_animated_003_idling_thumb_03_l
+    400144: rp_sophia_animated_003_idling_thumb_03_r
+    400146: rp_sophia_animated_003_idling_thumb_end_l
+    400148: rp_sophia_animated_003_idling_thumb_end_r
+    400150: rp_sophia_animated_003_idling_upperarm_l
+    400152: rp_sophia_animated_003_idling_upperarm_r
+    400154: rp_sophia_animated_003_idling_upperarm_twist_l
+    400156: rp_sophia_animated_003_idling_upperarm_twist_r
+    400158: rp_sophia_animated_003_idling_upperleg_l
+    400160: rp_sophia_animated_003_idling_upperleg_r
+    400162: rp_sophia_animated_003_idling_upperleg_twist_l
+    400164: rp_sophia_animated_003_idling_upperleg_twist_r
+    2100000: 01 - Default
+    4300000: rp_sophia_animated_003_idling_geo
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: rp_sophia_animated_003_idling_geo
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: c69ee34b6563d9c4a86d496c18f07399, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: rp_sophia_animated_003_idling_hip
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_upperleg_l
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_upperleg_r
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_lowerleg_l
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_lowerleg_r
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_foot_l
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_foot_r
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_spine_01
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_spine_02
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_shoulder_l
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_shoulder_r
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_upperarm_l
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_upperarm_r
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_lowerarm_l
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_lowerarm_r
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_hand_l
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_hand_r
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_ball_l
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_ball_r
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_eye_l
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_eye_r
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_thumb_01_l
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_thumb_02_l
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_thumb_03_l
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_index_01_l
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_index_02_l
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_index_03_l
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_middle_01_l
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_middle_02_l
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_middle_03_l
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_ring_01_l
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_ring_02_l
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_ring_03_l
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_pinky_01_l
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_pinky_02_l
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_pinky_03_l
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_thumb_01_r
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_thumb_02_r
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_thumb_03_r
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_index_01_r
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_index_02_r
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_index_03_r
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_middle_01_r
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_middle_02_r
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_middle_03_r
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_ring_01_r
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_ring_02_r
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_ring_03_r
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_pinky_01_r
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_pinky_02_r
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_pinky_03_r
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rp_sophia_animated_003_idling_spine_03
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: rp_sophia_animated_003_idling(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_sophia_animated_003_idling_CTRL
+      parentName: rp_sophia_animated_003_idling(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_sophia_animated_003_idling_root
+      parentName: rp_sophia_animated_003_idling_CTRL
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_sophia_animated_003_idling_hip
+      parentName: rp_sophia_animated_003_idling_root
+      position: {x: -0.00045115128, y: 0.061802447, z: 0.873685}
+      rotation: {x: 0.025860906, y: 0.71289754, z: 0.02540502, w: 0.7003307}
+      scale: {x: 1.0000007, y: 1.000001, z: 1.0000007}
+    - name: rp_sophia_animated_003_idling_spine_01
+      parentName: rp_sophia_animated_003_idling_hip
+      position: {x: -0.13795158, y: -0.000000052452087, z: 0.000000095367426}
+      rotation: {x: -0.0004243255, y: -0.0121632675, z: -0.03763813, w: 0.99921733}
+      scale: {x: 1.0000001, y: 0.9999996, z: 0.9999999}
+    - name: rp_sophia_animated_003_idling_spine_02
+      parentName: rp_sophia_animated_003_idling_spine_01
+      position: {x: -0.1379747, y: 0.000000038146972, z: -0.000000009536743}
+      rotation: {x: 0.000009804965, y: 0.002154142, z: 0.0073858807, w: 0.99997044}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: rp_sophia_animated_003_idling_spine_03
+      parentName: rp_sophia_animated_003_idling_spine_02
+      position: {x: -0.14119194, y: 0, z: -0.000000009536743}
+      rotation: {x: -0.00006867946, y: 0.0011805744, z: 0.06997838, w: -0.9975478}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: rp_sophia_animated_003_idling_neck
+      parentName: rp_sophia_animated_003_idling_spine_03
+      position: {x: -0.14195444, y: 0.0000001986148, z: 0.00000008023849}
+      rotation: {x: 0.00062318944, y: -0.009921462, z: -0.06530375, w: -0.9978159}
+      scale: {x: 1.0000004, y: 0.99999976, z: 1.0000001}
+    - name: rp_sophia_animated_003_idling_head
+      parentName: rp_sophia_animated_003_idling_neck
+      position: {x: -0.09168228, y: -0.0000003814697, z: 0}
+      rotation: {x: 0.000009983778, y: 0.0076337755, z: 0.0013138652, w: -0.99997}
+      scale: {x: 0.99999905, y: 0.9999994, z: 0.99999905}
+    - name: rp_sophia_animated_003_idling_head_end
+      parentName: rp_sophia_animated_003_idling_head
+      position: {x: -0.18238571, y: -0.000000009536743, z: 0.000000009536743}
+      rotation: {x: 4.12234e-17, y: -1.3877788e-17, z: -4.185434e-17, w: 1}
+      scale: {x: 1, y: 1, z: 0.999999}
+    - name: rp_sophia_animated_003_idling_jaw
+      parentName: rp_sophia_animated_003_idling_head
+      position: {x: -0.035943296, y: -0.029109564, z: -0.0009281659}
+      rotation: {x: 0.002919058, y: -0.0050920863, z: -0.8675468, w: -0.49732092}
+      scale: {x: 1.0000005, y: 1, z: 0.9999994}
+    - name: rp_sophia_animated_003_idling_jaw_end
+      parentName: rp_sophia_animated_003_idling_jaw
+      position: {x: -0.08230865, y: 0, z: 0.0000000047683715}
+      rotation: {x: -3.035766e-17, y: -2.94903e-17, z: -8.952565e-34, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_sophia_animated_003_idling_eye_r
+      parentName: rp_sophia_animated_003_idling_head
+      position: {x: -0.08545883, y: -0.08832033, z: 0.029184006}
+      rotation: {x: -0.0000009591841, y: 0.0000010305085, z: -0.7071068, w: -0.7071068}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999934}
+    - name: rp_sophia_animated_003_idling_eye_end_r
+      parentName: rp_sophia_animated_003_idling_eye_r
+      position: {x: -0.010996603, y: 0, z: 0.000000009536743}
+      rotation: {x: -1.38776555e-17, y: -4.122344e-17, z: 1.3877788e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_sophia_animated_003_idling_eye_l
+      parentName: rp_sophia_animated_003_idling_head
+      position: {x: -0.08604644, y: -0.09004312, z: -0.02869809}
+      rotation: {x: -0.000000029260256, y: 0.00000018673013, z: -0.7071068, w: -0.7071067}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999934}
+    - name: rp_sophia_animated_003_idling_eye_end_l
+      parentName: rp_sophia_animated_003_idling_eye_l
+      position: {x: -0.009483628, y: -0.00000030517577, z: 0.0000000035762786}
+      rotation: {x: -1.3877753e-17, y: -4.12234e-17, z: 1.3877788e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_sophia_animated_003_idling_shoulder_l
+      parentName: rp_sophia_animated_003_idling_spine_03
+      position: {x: -0.12728286, y: -0.0074884603, z: -0.036889832}
+      rotation: {x: -0.045147344, y: 0.7040273, z: -0.04535618, w: -0.70728356}
+      scale: {x: 0.99999994, y: 0.9999997, z: 0.9999997}
+    - name: rp_sophia_animated_003_idling_upperarm_l
+      parentName: rp_sophia_animated_003_idling_shoulder_l
+      position: {x: -0.114430055, y: -0.0000000047683715, z: 0.00000030517577}
+      rotation: {x: 0.000000037252903, y: -0, z: -0.000000014901161, w: 1}
+      scale: {x: 0.9999997, y: 1.0000001, z: 0.99999994}
+    - name: rp_sophia_animated_003_idling_upperarm_twist_l
+      parentName: rp_sophia_animated_003_idling_upperarm_l
+      position: {x: -0.13701896, y: 0, z: -0.000000057220458}
+      rotation: {x: -0, y: 0.0000000010913939, z: -0.0000000029103835, w: 1}
+      scale: {x: 1.0000004, y: 0.99999964, z: 0.99999976}
+    - name: rp_sophia_animated_003_idling_lowerarm_l
+      parentName: rp_sophia_animated_003_idling_upperarm_l
+      position: {x: -0.2740386, y: 0, z: 0.000000019073486}
+      rotation: {x: -0.000000063329935, y: 0.00000005960464, z: -0.000000044703487,
+        w: 1}
+      scale: {x: 1.0000004, y: 1, z: 1.0000002}
+    - name: rp_sophia_animated_003_idling_hand_l
+      parentName: rp_sophia_animated_003_idling_lowerarm_l
+      position: {x: -0.24089386, y: 0.000000104904174, z: -0.000000076293944}
+      rotation: {x: 0.7071068, y: -0.000000032927222, z: -0.000000008231804, w: -0.7071068}
+      scale: {x: 0.9999996, y: 0.99999964, z: 0.99999976}
+    - name: rp_sophia_animated_003_idling_middle_01_l
+      parentName: rp_sophia_animated_003_idling_hand_l
+      position: {x: -0.08400345, y: 0.002299118, z: -0.0067869374}
+      rotation: {x: -0, y: -0.0000000058207643, z: -0.00000003492459, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000004}
+    - name: rp_sophia_animated_003_idling_middle_02_l
+      parentName: rp_sophia_animated_003_idling_middle_01_l
+      position: {x: -0.048677824, y: 0.000000038146972, z: 0.000000038146972}
+      rotation: {x: 2.6681533e-16, y: -0.0000000072759576, z: 0.0000000021827873,
+        w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1.0000005}
+    - name: rp_sophia_animated_003_idling_middle_03_l
+      parentName: rp_sophia_animated_003_idling_middle_02_l
+      position: {x: -0.022839583, y: -0.000000057220458, z: -0.000000057220458}
+      rotation: {x: -4.573977e-16, y: 0.0000000014551915, z: -0.000000031286618, w: 1}
+      scale: {x: 1.0000004, y: 1, z: 1.0000006}
+    - name: rp_sophia_animated_003_idling_middle_end_l
+      parentName: rp_sophia_animated_003_idling_middle_03_l
+      position: {x: -0.017821044, y: -0.000000038146972, z: 0.000000009536743}
+      rotation: {x: 0.0000002472899, y: 0.000000053434768, z: -0.00000004144298, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_sophia_animated_003_idling_ring_01_l
+      parentName: rp_sophia_animated_003_idling_hand_l
+      position: {x: -0.082028575, y: 0.0030436325, z: 0.011333999}
+      rotation: {x: -0, y: -0.0000000116415295, z: -0.000000040745356, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: rp_sophia_animated_003_idling_ring_02_l
+      parentName: rp_sophia_animated_003_idling_ring_01_l
+      position: {x: -0.039336015, y: -0.000000019073486, z: -0.000000095367426}
+      rotation: {x: 0.00000008940697, y: -0.000000009458746, z: -0.000000017462298,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: rp_sophia_animated_003_idling_ring_03_l
+      parentName: rp_sophia_animated_003_idling_ring_02_l
+      position: {x: -0.026082229, y: -0.000000076293944, z: 0.000000028610229}
+      rotation: {x: -0.00000008940697, y: 0.000000021100277, z: 0.00000004656612,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: rp_sophia_animated_003_idling_ring_end_l
+      parentName: rp_sophia_animated_003_idling_ring_03_l
+      position: {x: -0.016673584, y: 0, z: -0.000000057220458}
+      rotation: {x: 0.00000015668904, y: -0.00000019169487, z: 0.00000034831302, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_sophia_animated_003_idling_pinky_01_l
+      parentName: rp_sophia_animated_003_idling_hand_l
+      position: {x: -0.075543135, y: 0.006943054, z: 0.02681671}
+      rotation: {x: -0, y: -0.00000001164153, z: -0.000000046566118, w: 1}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000004}
+    - name: rp_sophia_animated_003_idling_pinky_02_l
+      parentName: rp_sophia_animated_003_idling_pinky_01_l
+      position: {x: -0.034391936, y: 0.000000038146972, z: -0.000000038146972}
+      rotation: {x: -4.743384e-16, y: 0.000000011641532, z: 0.0000000058207625, w: 1}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000004}
+    - name: rp_sophia_animated_003_idling_pinky_03_l
+      parentName: rp_sophia_animated_003_idling_pinky_02_l
+      position: {x: -0.01752365, y: -0.000000114440915, z: -0.000000047683713}
+      rotation: {x: 0.00000008940697, y: -0.00000001164153, z: 0.00000002910383, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000004}
+    - name: rp_sophia_animated_003_idling_pinky_end_l
+      parentName: rp_sophia_animated_003_idling_pinky_03_l
+      position: {x: -0.015482063, y: 0.000000038146972, z: -0.000000019073486}
+      rotation: {x: -0.00000006793113, y: 0.000000021437538, z: 0.00000002176106,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_sophia_animated_003_idling_index_01_l
+      parentName: rp_sophia_animated_003_idling_hand_l
+      position: {x: -0.08271797, y: 0.007021675, z: -0.024763288}
+      rotation: {x: 0.00000008940697, y: -0.000000011641532, z: -0.00000004074536,
+        w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1.0000002}
+    - name: rp_sophia_animated_003_idling_index_02_l
+      parentName: rp_sophia_animated_003_idling_index_01_l
+      position: {x: -0.04263893, y: 0.000000038146972, z: 0.000000019073486}
+      rotation: {x: -0.00000008940697, y: -1.7763568e-15, z: 0.0000000058207705, w: 1}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000006}
+    - name: rp_sophia_animated_003_idling_index_03_l
+      parentName: rp_sophia_animated_003_idling_index_02_l
+      position: {x: -0.01774559, y: 0.000000019073486, z: -0.000000019073486}
+      rotation: {x: -0, y: 0.000000011641529, z: 0.000000007275954, w: 1}
+      scale: {x: 1.0000012, y: 1.0000006, z: 1.0000008}
+    - name: rp_sophia_animated_003_idling_index_end_l
+      parentName: rp_sophia_animated_003_idling_index_03_l
+      position: {x: -0.018793944, y: -0.000000047683713, z: 0.000000009536743}
+      rotation: {x: -0.000000010942804, y: 0.000000008267309, z: -0.00000009284084,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_sophia_animated_003_idling_thumb_01_l
+      parentName: rp_sophia_animated_003_idling_hand_l
+      position: {x: -0.03576637, y: 0.005898056, z: -0.028778046}
+      rotation: {x: -0.58440125, y: 0.32053232, z: -0.18989404, w: -0.7208846}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000002}
+    - name: rp_sophia_animated_003_idling_thumb_02_l
+      parentName: rp_sophia_animated_003_idling_thumb_01_l
+      position: {x: -0.030141754, y: -0.000000038146972, z: -0.0000000667572}
+      rotation: {x: 0.00000011920923, y: -0.0000018328419, z: 0.037580114, w: 0.9992937}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1.0000004}
+    - name: rp_sophia_animated_003_idling_thumb_03_l
+      parentName: rp_sophia_animated_003_idling_thumb_02_l
+      position: {x: -0.026802596, y: 0.000000038146972, z: 0.000000038146972}
+      rotation: {x: -0.00000011920929, y: -0.000000055879354, z: 0.00000008195639,
+        w: 1}
+      scale: {x: 0.9999999, y: 0.9999994, z: 1}
+    - name: rp_sophia_animated_003_idling_thumb_end_l
+      parentName: rp_sophia_animated_003_idling_thumb_03_l
+      position: {x: -0.020231247, y: -0.000000057220458, z: 0.000000038146972}
+      rotation: {x: -0.00000004928894, y: 0.000000039574623, z: 0.00000009757955,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_sophia_animated_003_idling_lowerarm_twist_l
+      parentName: rp_sophia_animated_003_idling_lowerarm_l
+      position: {x: -0.12044685, y: -0.000000057220458, z: -0.000000038146972}
+      rotation: {x: -0, y: -0.000000005820766, z: -0.00000001164153, w: 1}
+      scale: {x: 0.9999997, y: 0.9999995, z: 0.9999995}
+    - name: rp_sophia_animated_003_idling_shoulder_r
+      parentName: rp_sophia_animated_003_idling_spine_03
+      position: {x: -0.12695633, y: -0.007227268, z: 0.036856864}
+      rotation: {x: -0.7072836, y: -0.045356195, z: -0.7040273, w: 0.045147385}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: rp_sophia_animated_003_idling_upperarm_r
+      parentName: rp_sophia_animated_003_idling_shoulder_r
+      position: {x: 0.119103335, y: -0.000000042915342, z: 0.00000030517577}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_sophia_animated_003_idling_upperarm_twist_r
+      parentName: rp_sophia_animated_003_idling_upperarm_r
+      position: {x: 0.12781936, y: 0, z: -0.000000076293944}
+      rotation: {x: -0.000000063329935, y: -0.000000059604645, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000004}
+    - name: rp_sophia_animated_003_idling_lowerarm_r
+      parentName: rp_sophia_animated_003_idling_upperarm_r
+      position: {x: 0.25563866, y: 0.0000000106870806, z: -0.00000006021936}
+      rotation: {x: -0.000000059604638, y: -0.00000002677552, z: 0.000000048428767,
+        w: 1}
+      scale: {x: 1.0000002, y: 0.99999976, z: 1}
+    - name: rp_sophia_animated_003_idling_lowerarm_twist_r
+      parentName: rp_sophia_animated_003_idling_lowerarm_r
+      position: {x: 0.12245059, y: -0.00000015332088, z: -0.000000020586652}
+      rotation: {x: -0.0000000037252899, y: 0.0000000020954738, z: 0.0000000372529,
+        w: 1}
+      scale: {x: 1.0000004, y: 1, z: 1.0000005}
+    - name: rp_sophia_animated_003_idling_hand_r
+      parentName: rp_sophia_animated_003_idling_lowerarm_r
+      position: {x: 0.2449012, y: 0.000000114440915, z: -0.000000076293944}
+      rotation: {x: -0.7071067, y: -0.000000013877749, z: -0.000000015311162, w: 0.7071069}
+      scale: {x: 0.99999994, y: 1, z: 1.0000004}
+    - name: rp_sophia_animated_003_idling_thumb_01_r
+      parentName: rp_sophia_animated_003_idling_hand_r
+      position: {x: 0.032098234, y: -0.012298737, z: 0.023746833}
+      rotation: {x: 0.5679233, y: -0.3528893, z: 0.17955162, w: 0.721591}
+      scale: {x: 1.0000008, y: 1.0000001, z: 1.000001}
+    - name: rp_sophia_animated_003_idling_thumb_02_r
+      parentName: rp_sophia_animated_003_idling_thumb_01_r
+      position: {x: 0.028170394, y: 0.000000076293944, z: 0.0000000667572}
+      rotation: {x: -0, y: -0.000000014901161, z: -0.000000014901161, w: 1}
+      scale: {x: 0.99999934, y: 1.0000001, z: 0.9999995}
+    - name: rp_sophia_animated_003_idling_thumb_03_r
+      parentName: rp_sophia_animated_003_idling_thumb_02_r
+      position: {x: 0.030596694, y: 0, z: -0.000000076293944}
+      rotation: {x: 0.000000029802322, y: 0.000000044703484, z: 0.000000044703484,
+        w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000004}
+    - name: rp_sophia_animated_003_idling_thumb_end_r
+      parentName: rp_sophia_animated_003_idling_thumb_03_r
+      position: {x: 0.018154373, y: -0.000000038146972, z: 0.000000057220458}
+      rotation: {x: -0.00000010359389, y: -0.00000059624756, z: 0.0000002977939, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_sophia_animated_003_idling_middle_01_r
+      parentName: rp_sophia_animated_003_idling_hand_r
+      position: {x: 0.07698311, y: -0.0050443267, z: 0.009647064}
+      rotation: {x: -0.00000023841852, y: -0.0000000013170981, z: -0.0000000013170794,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: rp_sophia_animated_003_idling_middle_02_r
+      parentName: rp_sophia_animated_003_idling_middle_01_r
+      position: {x: 0.053025205, y: 0, z: -0.000000038146972}
+      rotation: {x: 0.000000119209275, y: -0.000000063220234, z: -0.000000021073427,
+        w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000001}
+    - name: rp_sophia_animated_003_idling_middle_03_r
+      parentName: rp_sophia_animated_003_idling_middle_02_r
+      position: {x: 0.027213898, y: 0, z: 0.000000076293944}
+      rotation: {x: 0.00000011920925, y: 0.00000006453734, z: 0.000000022390493, w: 1}
+      scale: {x: 0.9999996, y: 0.9999998, z: 0.99999994}
+    - name: rp_sophia_animated_003_idling_middle_end_r
+      parentName: rp_sophia_animated_003_idling_middle_03_r
+      position: {x: 0.018595656, y: 0, z: -0.000000038146972}
+      rotation: {x: -0.00000012318206, y: -0.00000027008474, z: -0.0000004670203,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_sophia_animated_003_idling_ring_01_r
+      parentName: rp_sophia_animated_003_idling_hand_r
+      position: {x: 0.0767968, y: -0.0071437834, z: -0.006800003}
+      rotation: {x: -0.00000023841852, y: -0.0000000013170981, z: -0.0000000013170794,
+        w: 1}
+      scale: {x: 1.0000005, y: 0.99999994, z: 1.0000002}
+    - name: rp_sophia_animated_003_idling_ring_02_r
+      parentName: rp_sophia_animated_003_idling_ring_01_r
+      position: {x: 0.042165678, y: 0, z: -0.000000038146972}
+      rotation: {x: -0, y: -0, z: 1.9046246e-17, w: 1}
+      scale: {x: 1.0000011, y: 1.0000005, z: 1.0000004}
+    - name: rp_sophia_animated_003_idling_ring_03_r
+      parentName: rp_sophia_animated_003_idling_ring_02_r
+      position: {x: 0.025014648, y: 0.00000015258789, z: 0}
+      rotation: {x: 0.000000119209275, y: -0.000000063220234, z: -0.000000021073427,
+        w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1}
+    - name: rp_sophia_animated_003_idling_ring_end_r
+      parentName: rp_sophia_animated_003_idling_ring_03_r
+      position: {x: 0.022031631, y: -0.000000095367426, z: -0.000000114440915}
+      rotation: {x: -0.0000000058898193, y: 0.0000007746576, z: 0.00000015566107,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_sophia_animated_003_idling_pinky_01_r
+      parentName: rp_sophia_animated_003_idling_hand_r
+      position: {x: 0.073879465, y: -0.01002655, z: -0.023093147}
+      rotation: {x: -0, y: -8.881782e-16, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: rp_sophia_animated_003_idling_pinky_02_r
+      parentName: rp_sophia_animated_003_idling_pinky_01_r
+      position: {x: 0.0279718, y: 0.000000038146972, z: 0.000000076293944}
+      rotation: {x: -0.00000023841852, y: -0.0000000013170972, z: -0.0000000013170794,
+        w: 1}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000005}
+    - name: rp_sophia_animated_003_idling_pinky_03_r
+      parentName: rp_sophia_animated_003_idling_pinky_02_r
+      position: {x: 0.020317763, y: 0.000000076293944, z: -0.000000038146972}
+      rotation: {x: 0.000000119209275, y: -0.000000063220234, z: -0.000000021073427,
+        w: 1}
+      scale: {x: 1.0000007, y: 1.0000007, z: 1.0000004}
+    - name: rp_sophia_animated_003_idling_pinky_end_r
+      parentName: rp_sophia_animated_003_idling_pinky_03_r
+      position: {x: 0.015852813, y: 0.000000019073486, z: -0.000000076293944}
+      rotation: {x: -0.0000005844568, y: -0.000000002862926, z: -0.00000026719337,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_sophia_animated_003_idling_index_01_r
+      parentName: rp_sophia_animated_003_idling_hand_r
+      position: {x: 0.07163422, y: -0.008637924, z: 0.02658943}
+      rotation: {x: -0.00000023841852, y: -0.0000000013170981, z: -0.0000000013170794,
+        w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: rp_sophia_animated_003_idling_index_02_r
+      parentName: rp_sophia_animated_003_idling_index_01_r
+      position: {x: 0.04636257, y: 0, z: 0.000000038146972}
+      rotation: {x: 0.000000119209275, y: -0.000000063220234, z: -0.000000021073427,
+        w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 0.99999994}
+    - name: rp_sophia_animated_003_idling_index_03_r
+      parentName: rp_sophia_animated_003_idling_index_02_r
+      position: {x: 0.024547996, y: 0.000000038146972, z: -0.000000114440915}
+      rotation: {x: -0.000000119209275, y: 0.000000063220234, z: 0.000000021073427,
+        w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: rp_sophia_animated_003_idling_index_end_r
+      parentName: rp_sophia_animated_003_idling_index_03_r
+      position: {x: 0.01725998, y: 0.00000015258789, z: -0.000000076293944}
+      rotation: {x: 0.00000018642042, y: 0.000000081459206, z: 0.00000011152894, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_sophia_animated_003_idling_upperleg_r
+      parentName: rp_sophia_animated_003_idling_hip
+      position: {x: -0.0013760376, y: -0.00005589485, z: 0.07618914}
+      rotation: {x: -0.008885781, y: 0.00023981647, z: 0.99892384, w: 0.0455229}
+      scale: {x: 1.0000006, y: 1.0000004, z: 0.99999994}
+    - name: rp_sophia_animated_003_idling_upperleg_twist_r
+      parentName: rp_sophia_animated_003_idling_upperleg_r
+      position: {x: -0.2017601, y: -0.000000076293944, z: 0.000000095367426}
+      rotation: {x: -2.9103824e-11, y: -0, z: 0.000000003816239, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
+    - name: rp_sophia_animated_003_idling_lowerleg_r
+      parentName: rp_sophia_animated_003_idling_upperleg_r
+      position: {x: -0.40352026, y: -0.0000000333786, z: -0.0000000333786}
+      rotation: {x: -0.000057076726, y: -0.002322382, z: 0.043090325, w: 0.9990685}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000006}
+    - name: rp_sophia_animated_003_idling_lowerleg_twist_r
+      parentName: rp_sophia_animated_003_idling_lowerleg_r
+      position: {x: -0.18727136, y: 0.000000038146972, z: -0.0000000047683715}
+      rotation: {x: 0.000000085212356, y: -0.000000032596283, z: 0.00000008351119,
+        w: 1}
+      scale: {x: 1.0000006, y: 1.0000008, z: 1.0000007}
+    - name: rp_sophia_animated_003_idling_foot_r
+      parentName: rp_sophia_animated_003_idling_lowerleg_r
+      position: {x: -0.37454292, y: -0.000000009536743, z: -0.000000026226044}
+      rotation: {x: 0.00007873124, y: 0.002324708, z: -0.033816695, w: 0.9994254}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: rp_sophia_animated_003_idling_ball_r
+      parentName: rp_sophia_animated_003_idling_foot_r
+      position: {x: -0.07083979, y: 0.144302, z: -0.000096623895}
+      rotation: {x: -0.002254736, y: 0.0022365553, z: 0.7041876, w: 0.71000695}
+      scale: {x: 1.000001, y: 1.0000019, z: 1.0000008}
+    - name: rp_sophia_animated_003_idling_foot_end_r
+      parentName: rp_sophia_animated_003_idling_ball_r
+      position: {x: 0.049488142, y: -0.0000000011920929, z: -0.0000000011920929}
+      rotation: {x: -3.184844e-19, y: 4.1633363e-17, z: -2.0209528e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_sophia_animated_003_idling_upperleg_l
+      parentName: rp_sophia_animated_003_idling_hip
+      position: {x: 0.0013607788, y: 0.000054950713, z: -0.07528697}
+      rotation: {x: 0.0002586338, y: 0.009043811, z: 0.04391374, w: -0.99899435}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000002}
+    - name: rp_sophia_animated_003_idling_lowerleg_l
+      parentName: rp_sophia_animated_003_idling_upperleg_l
+      position: {x: 0.40058032, y: -0.0000001335144, z: 0.000000019073486}
+      rotation: {x: -0.000059187412, y: -0.0034844875, z: -0.03232315, w: -0.9994714}
+      scale: {x: 1.0000002, y: 0.99999976, z: 0.9999997}
+    - name: rp_sophia_animated_003_idling_foot_l
+      parentName: rp_sophia_animated_003_idling_lowerleg_l
+      position: {x: 0.37571737, y: 0.000000009536743, z: 0.000000057220458}
+      rotation: {x: 0.000082075596, y: 0.0033283234, z: 0.024656579, w: -0.9996904}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000005}
+    - name: rp_sophia_animated_003_idling_ball_l
+      parentName: rp_sophia_animated_003_idling_foot_l
+      position: {x: 0.07271404, y: -0.12900314, z: -0.00041602133}
+      rotation: {x: 0.0037696362, y: -0.0037647188, z: -0.70665365, w: -0.7075396}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000002}
+    - name: rp_sophia_animated_003_idling_foot_end_l
+      parentName: rp_sophia_animated_003_idling_ball_l
+      position: {x: -0.04713607, y: 0.000000009536743, z: 0}
+      rotation: {x: 1.0517608e-17, y: -3.989864e-17, z: -5.887218e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rp_sophia_animated_003_idling_lowerleg_twist_l
+      parentName: rp_sophia_animated_003_idling_lowerleg_l
+      position: {x: 0.18785861, y: 0.000000038146972, z: 0.000000076293944}
+      rotation: {x: 0.000000074505806, y: -0.000000029802322, z: 0.000000029802322,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000004}
+    - name: rp_sophia_animated_003_idling_upperleg_twist_l
+      parentName: rp_sophia_animated_003_idling_upperleg_l
+      position: {x: 0.20029014, y: 0, z: 0.000000047683713}
+      rotation: {x: -0, y: -0, z: 0.000000014901161, w: 1}
+      scale: {x: 1.000001, y: 1.0000006, z: 1.0000004}
+    - name: rp_sophia_animated_003_idling_geo
+      parentName: rp_sophia_animated_003_idling(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
